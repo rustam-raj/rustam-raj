@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustam-raj&label=Profile%20views&color=0e75b6&style=flat" alt="rustam-raj" /> </p>
 
-- 🔭 I’m currently working on **html**
+- 🔭 I’m currently Learning   **java and dsa along with some web devlopment **
 
 - 📫 How to reach me **rustamrajbihar@gmail.com**
 
-- ⚡ Fun fact **i think i am funny enough.**
+- ⚡  fact **good things take time  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
